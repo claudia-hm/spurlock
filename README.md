@@ -84,7 +84,7 @@ Also, please add the publicly available coding files in the folder `data/externa
 
 ### `data`: scripts related to basic ETL
 * `01_wrangling.py`: script to perform data wrangling. 
-* `02_wrangling.py`: script to perform basic cleaning.
+* `02_cleaning.py`: script to perform basic cleaning.
 * `03_create_categories.py`: script to specify medical categories.
 * `04_analysis.py`: script to perform custom data analysis.
 * `loading.py`: data loading functions.
