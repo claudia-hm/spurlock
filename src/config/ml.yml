@@ -1,0 +1,8 @@
+SEED: 42
+ICD10: "I10"
+OPT_SCORE: "f1"
+LOAD_STORED_MODELS: True
+CURRENT_MODEL: "I10_grid_f1_156_features_CatBoostClassifier_11_params_42_seed.pk1"
+CURRENT_MODEL_NAME: "CatBoostClassifier"
+IS_GRID: False
+RESAMPLER: None
