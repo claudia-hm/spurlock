@@ -48,11 +48,11 @@ In this work, we propose a comprehensive methodology that encompasses data wrang
 Make sure you have Poetry installed. If you don't have it installed, you can follow the instructions at [Poetry Installation Guide](https://python-poetry.org/docs/).
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone git@github.com:claudia-hm/spurlock.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd your-repository
+cd spurlock
 ```
  3. Set up the Python environment and install the project dependencies using Poetry:
 ```bash
@@ -111,6 +111,11 @@ Also, please add the publicly available coding files in the folder `data/externa
 * `fairness.py`: plots used in the `fairness` module.
 * `ml.py`: plots used in the `ml` module.
 
+## Why Spurlock?
+
+Jeanne Spurlock was a psychiatrist who broke barriers as the first African American and first woman to receive the Edward A. Strecker M.D. Award. Despite coming from a low-income background, she pursued her passion for medicine and overcame financial obstacles to obtain her education. She made significant contributions to the field of psychiatry, completing her residency and fellowship in Chicago and holding prestigious positions at institutions like the Neuropsychiatric Institute and Meharry Medical College. Spurlock's research focused on the impact of discrimination and inequality on health and childhood development, and she actively advocated for funding and representation for minorities in medicine. Her legacy as a compassionate and pioneering psychiatrist continues to inspire and make a lasting impact on the field.
+
+Source: [wikipedia](https://en.wikipedia.org/wiki/Jeanne_Spurlock)
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
