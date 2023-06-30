@@ -1,0 +1,29 @@
+Name;Type
+Continuous;float
+Continuous, 10^9 cells/Litre;float
+Continuous, grams/decilitre;float
+Categorical single;category
+Categorical (single);category
+Date;date
+Integer;int
+Integer, minutes/day;int
+Integer, hours/day;int
+Integer, hours/week;int
+Integer, tablespoons/day;int
+Integer, pieces/day;int
+Integer, bowls/week;int
+Integer, cups/day;int
+Integer, days/week;int
+Integer, glasses/day;int
+Integer, times;int
+Integer, cigarettes/day;int
+Integer, years;int
+Integer, glasses;int
+Integer, pints;int
+Integer, measures;int
+Integer, weeks;int
+Integer, periods;int
+Text;str
+Categorical multiple;category
+Categorical (multiple);category
+Time;date
