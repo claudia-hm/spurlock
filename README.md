@@ -2,7 +2,7 @@
 Towards Fair Machine learning in Healthcare: Ensuring Non-Discrimination for Disease Prediction
 ==============================
 
-This repository contains the code, data, and documentation associated with the master thesis titled *Towards Fair Machine learning in Healthcare: Ensuring Non-Discrimination for Disease Prediction* conducted by *Claudia Herron Mulet*.  
+This repository contains the code, data, and documentation associated with the master thesis titled *Towards Fair Machine learning in Healthcare: Ensuring Non-Discrimination for Disease Prediction* conducted by *Claudia Herron Mulet*, and supervised by Dr. Polyxeni Gkontra and Dr. Karim Lekadir.
 
 ## Abstract
 
