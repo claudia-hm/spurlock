@@ -25,7 +25,7 @@ In this work, we propose a comprehensive methodology that encompasses data wrang
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
     │   └── figures        <- Generated graphics and figures to be used in reporting
     │   └── ml             <- Generated ML result reports
-    │   └── ml             <- Generated fairness result reports
+    │   └── fairness       <- Generated fairness result reports
     │
     ├── src                <- Source code for use in this project.
     │   │
